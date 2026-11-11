@@ -16,7 +16,7 @@
   <a href="mailto:ecmngnt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/ecmngnt"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/99361100343"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.instagram.com/900188/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ataev0502/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -113,7 +113,7 @@ I'm based in Germany and interested in discussing PHP backend and related web-de
 | 📧 Email | [ecmngnt@gmail.com](mailto:ecmngnt@gmail.com) |
 | ✈️ Telegram | [@ecmngnt](https://t.me/ecmngnt) |
 | 💬 WhatsApp | [Send a message](https://wa.me/99361100343) |
-| 📸 Instagram | [@900188](https://www.instagram.com/900188/) |
+| 📸 Instagram | [@900188](https://www.instagram.com/ataev0502/) |
 | 🧑‍💻 GitHub | [github.com/ecmngnt](https://github.com/ecmngnt) |
 
 <p align="center"><sub>Built with care • Private code stays private • Open to professional collaboration</sub></p>
